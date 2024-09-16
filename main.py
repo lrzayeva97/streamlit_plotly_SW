@@ -97,7 +97,19 @@ pending_count = f"{total_pending:,}"
 rejected_count = f"{total_rejected:,}"
 verified_count = f"{total_verified:,}"
 
-# Create the figures
+missed  = pd.read_csv('risk_dumps/PL_Missed_Report_daily.csv')
+missed = missed[missed['which_month']=='current_month']
+missed['order_date'] = pd.to_datetime(missed['order_date'])
+missed['day_of_order_date'] = missed['order_date'].dt.day
+grouped = missed.groupby('day_of_order_date').agg(
+    missed_count=('inst_status', lambda x: (x == 'MISSED').sum())  ,
+    count = ('order_id','count')
+).reset_index()
+
+grouped['percentage_of_users'] = (grouped['missed_count'] / grouped['count']) * 100
+
+
+#######################################################################################################################################################
 fig_loan_active = px.line(summary_active, 
                           line_shape='spline', 
                           x='day', 
@@ -107,8 +119,10 @@ fig_loan_active = px.line(summary_active,
                           labels={'day': 'Day of Month', 'Active_payments': 'Active Payments'},
                           markers=True)
 fig_loan_active.update_traces(marker=dict(size=8), texttemplate='%{text:.0f}', textposition='top right', line=dict(color='#636efa'))
+
 fig_loan_active.update_xaxes(tickmode='linear', dtick=1)
 
+#######################################################################################################################################################
 fig_loan = px.line(summary, 
                    line_shape='spline', 
                    x='created_date', 
@@ -117,9 +131,12 @@ fig_loan = px.line(summary,
                    title='Total Loans Disbursed per Day',
                    labels={'created_date': 'Day of Month', 'total_loan_disbursed': 'Total Loans'},
                    markers=True)
+
 fig_loan.update_traces(marker=dict(size=8), texttemplate='%{text:.0f}', textposition='top right', line=dict(color='#636efa'))
+
 fig_loan.update_xaxes(tickmode='linear', dtick=1)
 
+#######################################################################################################################################################
 fig_verifications = px.line(user_counts, 
                             x='day', 
                             y='percentage_of_users', 
@@ -139,8 +156,10 @@ for trace in fig_verifications.data:
     trace.textposition = 'top right'
 
 fig_verifications.update_traces(marker=dict(size=8), textposition='top right')
+
 fig_verifications.update_xaxes(tickmode='linear', dtick=1)
 
+#######################################################################################################################################################
 fig_aov = px.line(
     healthy, 
     line_shape='spline', 
@@ -151,61 +170,167 @@ fig_aov = px.line(
     labels={'day_of_created_date': 'Day of created date', 'aov': 'Average Order Value'},
     markers=True
 )
+
 fig_aov.update_traces(
     marker=dict(size=8), 
     texttemplate='%{text:.0f}', 
     textposition='top right', 
     line=dict(color='#636efa'))
+
 fig_aov.update_layout(
     title={
         'text': 'Average Order Value per day'
     }
 )
+
 fig_aov.update_xaxes(tickmode='linear', dtick=1)
+
+#######################################################################################################################################################
+merchant_colors = {
+    merchant: color for merchant, color in zip(healthy_merchant['merchant_name'].unique(), px.colors.qualitative.Plotly)
+}
 
 fig_bar_merchant = px.bar(
     healthy_merchant,  
     x='merchant_name',  
     y='aov', 
-    title='Average Order Value per Merchant',  
+    title='Average Order Value by Merchant',  
     labels={'merchant_name': 'Merchant', 'aov': 'Average Order Value'},  
-    text='aov',  
+    text='aov',
+    color='merchant_name',
+    color_discrete_map=merchant_colors
 )
+
 fig_bar_merchant.update_layout(
     title={
-        'text': 'Average Order Value per Merchant'
+        'text': 'Average Order Value by Merchant'
     },
     width=1400,  
     height=400,
     yaxis=dict(range=[0, healthy_merchant['aov'].max()+healthy_merchant['aov'].mean()]) 
 )
+
 fig_bar_merchant.update_traces(
-    texttemplate='%{text:.0f}', 
+    texttemplate='%{text:,.0f} QAR', 
     textfont=dict(size=19), 
     textposition='inside'   
 )
 
+#######################################################################################################################################################
+fig_line_aov = px.line(
+    healthy_aov_scat,
+    x='day_of_created_date',
+    y='aov',
+    color='merchant_name',  # Color by merchant
+    title='AOV by Merchant daily',
+    labels={'day_of_created_date': 'Day', 'aov': 'Average Order Value'},
+    markers=True,
+    text='aov',
+    line_shape='spline'
+)
+
+# Update traces to set the line color explicitly for each merchant
+for merchant in merchant_colors:
+    fig_line_aov.for_each_trace(
+        lambda trace: trace.update(line=dict(color=merchant_colors[trace.name])) if trace.name == merchant else ()
+    )
+
+fig_line_aov.update_layout(
+    font=dict(size=14),
+    height=500,
+    xaxis=dict(tickmode='linear')
+)
+
+fig_line_aov.update_traces(
+    textposition="top right",
+    texttemplate='%{text:.0f}'
+)
+
+#######################################################################################################################################################
 fig_bar_merchant_gmv = px.bar(
     healthy_merchant_gmv,  
     x='merchant_name',  
     y='gmv', 
-    title='GMV per Merchant',  
+    title='GMV by Merchant',  
     labels={'merchant_name': 'Merchant', 'gmv': 'GMV'},  
-    text='gmv'
+    text='gmv',
+    color='merchant_name',
+    color_discrete_map=merchant_colors
 )
+
 fig_bar_merchant_gmv.update_layout(
     title={
-        'text': 'GMV per Merchant'
+        'text': 'GMV by Merchant'
     },
     width=1400,  
     height=400,
     yaxis=dict(range=[0, healthy_merchant_gmv['gmv'].max()+healthy_merchant_gmv['gmv'].mean()]) 
 )
+
 fig_bar_merchant_gmv.update_traces(
-    texttemplate='%{text:.0f}', 
+    texttemplate='%{text:,.0f} QAR', 
     textfont=dict(size=19), 
     textposition='inside'   
 )
+
+#######################################################################################################################################################
+fig_line_gmv = px.line(
+    healthy_gmv_scat, 
+    x='day_of_created_date', 
+    y='gmv', 
+    color='merchant_name',  
+    title='GMV by Merchant daily',
+    labels={'day_of_created_date': 'Day', 'gmv': 'GMV'},
+    markers=True,  
+    text='gmv' ,
+     line_shape='spline'
+)
+
+for merchant in merchant_colors:
+    fig_line_gmv.for_each_trace(
+        lambda trace: trace.update(line=dict(color=merchant_colors[trace.name])) if trace.name == merchant else ()
+    )
+
+fig_line_gmv.update_layout(
+    font=dict(size=14), 
+    #width=800, 
+    height=500,
+    xaxis=dict(
+        tickmode='linear'  
+    )
+)
+
+fig_line_gmv.update_traces(
+    textposition="top right",  
+    texttemplate='%{text:.0f}',  
+)
+
+#######################################################################################################################################################
+fig_missed = px.line(
+    grouped, 
+    x='day_of_order_date', 
+    y='percentage_of_users', 
+    
+    title='Missed Installments per Day',
+    labels={'day_of_order_date': 'Day of Order Date', 'percentage_of_users': '% of Users'},
+    markers=True,  
+    line_shape='spline',  
+    text='percentage_of_users'  
+)
+
+fig_missed.update_traces(
+    textposition="top right", 
+    texttemplate='%{text:.0f}%', 
+    marker=dict(size=8)  
+)
+
+fig_missed.update_layout(
+    font=dict(size=14),
+    height=500,
+    xaxis=dict(tickmode='linear', dtick=1) 
+   
+)
+#######################################################################################################################################################
 
 st. set_page_config(layout="wide")
 
@@ -335,4 +460,7 @@ st.plotly_chart(fig_verifications, use_container_width=True)
 st.plotly_chart(fig_loan_active, use_container_width=True)
 st.plotly_chart(fig_aov, use_container_width=True)
 st.plotly_chart(fig_bar_merchant, use_container_width=True)
+st.plotly_chart(fig_line_aov, use_container_width=True)
 st.plotly_chart(fig_bar_merchant_gmv, use_container_width=True)
+st.plotly_chart(fig_line_gmv, use_container_width=True)
+st.plotly_chart(fig_missed, use_container_width=True)
