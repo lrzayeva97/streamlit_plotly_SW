@@ -3,9 +3,34 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import streamlit.components.v1 as components
+import io
+from google.oauth2 import service_account
+from googleapiclient.discovery import build
+from googleapiclient.http import MediaIoBaseDownload
+from constants import service_account_info
 
-# Load data for loans and verifications
-df = pd.read_csv('risk_dumps/historical_loans_PL.csv')
+credentials = service_account.Credentials.from_service_account_info(service_account_info)
+service = build('drive', 'v3', credentials=credentials)
+
+def read_data(name, id):
+    file_id = id
+    request = service.files().get_media(fileId=file_id)
+    fh = io.BytesIO()
+    downloader = MediaIoBaseDownload(fh, request)
+    done = False
+    while not done:
+        status, done = downloader.next_chunk()
+    fh.seek(0)
+    globals()[name] = pd.read_csv(fh)  
+
+
+read_data('missed', '1pC1o2Pp2ZKX9tsOWOdepJP2q2N0ToAD5')
+read_data('df', '1hhKTlbfOY4t7Xn1l9FKmyvxT1SaNaQQz')
+read_data('dd', '1v1jIqtERNMy2-aSk_TihQY-r7WGDi9X3')
+read_data('df_verifications', '1ydq4pdNkRH-oiKaJ_hcKAEZ2bjlDdry_')
+read_data('healthy_book', '15GNAzusvoY6YJ6T-jPu8cmTk3722nBV6')
+
+# df = pd.read_csv('risk_dumps/historical_loans_PL.csv')
 df = df[df['which_month'] == 'current_month']
 df['created_date'] = pd.to_datetime(df['created_datetime_dubai']).dt.day
 
@@ -23,7 +48,7 @@ summary = df.groupby('created_date').agg(
 summary['percentage_loan_disbursed'] = (summary['total_loan_disbursed'] / summary['total_loan_disbursed'].sum()) * 100
 
 # Active loans data
-dd = pd.read_csv('risk_dumps/PL_Installments_Report_daily.csv')
+# dd = pd.read_csv('risk_dumps/PL_Installments_Report_daily.csv')
 dd = dd[dd['which_month'] == 'current_month']
 dd['Order Date (UTC Time)'] = pd.to_datetime(dd['Order Date (UTC Time)'])
 dd['day'] = dd['Order Date (UTC Time)'].dt.day
@@ -33,7 +58,7 @@ summary_active = dd.groupby('day').agg(
 ).reset_index()
 
 # Verifications data
-df_verifications = pd.read_csv('risk_dumps/verifications_PL.csv')
+# df_verifications = pd.read_csv('risk_dumps/verifications_PL.csv')
 df_verifications = df_verifications[df_verifications['which_month'] == 'current_month']
 df_verifications['attempted_at'] = pd.to_datetime(df_verifications['attempted_at'])
 df_verifications['day'] = df_verifications['attempted_at'].dt.day
@@ -49,9 +74,9 @@ user_counts = pd.merge(user_counts, total_users_per_day, on='day')
 user_counts['percentage_of_users'] = (user_counts['user_id'] / user_counts['total_users']) * 100
 user_counts = user_counts[['day', 'verification_status', 'percentage_of_users']]
 
-# Average order value
-healthy_book = pd.read_csv('risk_dumps/healthy_book.csv')
-healthy_book = healthy_book[healthy_book['which_month'] == 'current_month']
+#Average order value
+#healthy_book = pd.read_csv(r"C:\Users\user\Downloads\exported_workbooks\healthy_book.csv")
+healthy_book = healthy_book[healthy_book['which_month']=='current_month']
 healthy_book['created_at'] = pd.to_datetime(healthy_book['created_at'])
 healthy_book['day_of_created_date'] = healthy_book['created_at'].dt.day
 healthy_book['aov_aed'] = healthy_book['aed_amount']
@@ -59,22 +84,23 @@ healthy = healthy_book.groupby('day_of_created_date').agg(
     aov=('aov_aed', 'mean')
 ).reset_index()
 healthy['aov'] = healthy['aov'].round(0)
-
+#############################################################
 healthy_merchant = healthy_book.groupby('merchant_name').agg(
     aov=('aov_aed', 'mean')
 ).reset_index()
 healthy_merchant['aov'] = healthy_merchant['aov'].round(0)
-
+################################################################
 healthy_merchant_gmv = healthy_book.groupby('merchant_name').agg(
     gmv=('aov_aed', 'sum')
 ).reset_index()
 healthy_merchant_gmv['gmv'] = healthy_merchant_gmv['gmv'].round(0)
-
+#################################################################
 healthy_gmv_scat = healthy_book.groupby(['merchant_name', 'day_of_created_date']).agg(
     gmv=('aov_aed', 'sum')
 ).reset_index()
 healthy_gmv_scat['gmv'] = healthy_gmv_scat['gmv'].round(0)
 
+######################################################################
 healthy_aov_scat = healthy_book.groupby(['merchant_name', 'day_of_created_date']).agg(
     aov=('aov_aed', 'mean')
 ).reset_index()
@@ -97,7 +123,7 @@ pending_count = f"{total_pending:,}"
 rejected_count = f"{total_rejected:,}"
 verified_count = f"{total_verified:,}"
 
-missed  = pd.read_csv('risk_dumps/PL_Missed_Report_daily.csv')
+#missed  = pd.read_csv(r"C:\Users\user\Downloads\exported_workbooks\PL_Missed_Report_daily (1).csv")
 missed = missed[missed['which_month']=='current_month']
 missed['order_date'] = pd.to_datetime(missed['order_date'])
 missed['day_of_order_date'] = missed['order_date'].dt.day
