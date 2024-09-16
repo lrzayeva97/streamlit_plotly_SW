@@ -7,9 +7,9 @@ import io
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
-from constants import service_account_info
+import constants as cn
 
-credentials = service_account.Credentials.from_service_account_info(service_account_info)
+credentials = service_account.Credentials.from_service_account_info(cn.service_account_info)
 service = build('drive', 'v3', credentials=credentials)
 
 def read_data(name, id):
