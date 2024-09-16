@@ -1,0 +1,55 @@
+,date,date_str,effective_at,effective_at_string,merchant_name,merchant_rolling_30_30_days_ago,merchant_rolling_30_miss_rate,merchant_rolling_30_n_due_sum,merchant_rolling_30_n_missed_sum,merchant_rolling_change,mtd,n_due,n_missed,n_paid,which_day,which_month,which_month_name
+0,2024-09-06,2024-09-06,2024-09-06,2024-09-06,PayLater Test Merchant,,0.0,72.0,0.0,,current_month,1,0,0,,current_month,September
+1,2024-09-01,2024-09-01,2024-09-01,2024-09-01,PayLater Test Merchant,,0.0,73.0,0.0,,current_month,1,0,0,,current_month,September
+2,2024-08-26,2024-08-26,2024-08-26,2024-08-26,PayLater Test Merchant,,0.0,76.0,0.0,,,1,0,0,,last_month,August
+3,2024-08-20,2024-08-20,2024-08-20,2024-08-20,PayLater Test Merchant,,0.0,77.0,0.0,,,2,0,0,,last_month,August
+4,2024-08-19,2024-08-19,2024-08-19,2024-08-19,PayLater Test Merchant,,0.0,78.0,0.0,,,4,0,0,,last_month,August
+5,2024-08-16,2024-08-16,2024-08-16,2024-08-16,PayLater Test Merchant,,0.0,75.0,0.0,,,2,0,0,,last_month,August
+6,2024-08-14,2024-08-14,2024-08-14,2024-08-14,PayLater Test Merchant,,0.0,75.0,0.0,,last_month,3,0,0,,last_month,August
+7,2024-08-11,2024-08-11,2024-08-11,2024-08-11,PayLater Test Merchant,,0.0,75.0,0.0,,last_month,1,0,0,,last_month,August
+8,2024-08-09,2024-08-09,2024-08-09,2024-08-09,PayLater Test Merchant,,0.0,79.0,0.0,,last_month,2,0,0,,last_month,August
+9,2024-08-08,2024-08-08,2024-08-08,2024-08-08,PayLater Test Merchant,,0.0,80.0,0.0,,last_month,3,0,0,,last_month,August
+10,2024-08-07,2024-08-07,2024-08-07,2024-08-07,PayLater Test Merchant,,0.0,81.0,0.0,,last_month,5,0,0,,last_month,August
+11,2024-08-06,2024-08-06,2024-08-06,2024-08-06,PayLater Test Merchant,,0.0,77.0,0.0,,last_month,3,0,0,,last_month,August
+12,2024-08-03,2024-08-03,2024-08-03,2024-08-03,PayLater Test Merchant,,0.0,77.0,0.0,,last_month,4,0,0,,last_month,August
+13,2024-08-02,2024-08-02,2024-08-02,2024-08-02,PayLater Test Merchant,,0.0,75.0,0.0,,last_month,1,0,0,,last_month,August
+14,2024-07-30,2024-07-30,2024-07-30,2024-07-30,PayLater Test Merchant,,0.0,75.0,0.0,,,2,0,0,,last_to_last_month,July
+15,2024-07-26,2024-07-26,2024-07-26,2024-07-26,PayLater Test Merchant,,0.0,76.0,0.0,,,1,0,0,,last_to_last_month,July
+16,2024-07-20,2024-07-20,2024-07-20,2024-07-20,PayLater Test Merchant,,0.0,76.0,0.0,,,2,0,0,,last_to_last_month,July
+17,2024-07-19,2024-07-19,2024-07-19,2024-07-19,PayLater Test Merchant,,,,,,,4,0,0,,last_to_last_month,July
+18,2024-07-16,2024-07-16,2024-07-16,2024-07-16,PayLater Test Merchant,,,,,,,2,0,0,,last_to_last_month,July
+19,2024-07-14,2024-07-14,2024-07-14,2024-07-14,PayLater Test Merchant,,,,,,last_to_last_month,3,0,0,,last_to_last_month,July
+20,2024-07-11,2024-07-11,2024-07-11,2024-07-11,PayLater Test Merchant,,,,,,last_to_last_month,1,0,0,,last_to_last_month,July
+21,2024-07-09,2024-07-09,2024-07-09,2024-07-09,PayLater Test Merchant,,,,,,last_to_last_month,2,0,0,,last_to_last_month,July
+22,2024-07-08,2024-07-08,2024-07-08,2024-07-08,PayLater Test Merchant,,,,,,last_to_last_month,3,0,0,,last_to_last_month,July
+23,2024-07-07,2024-07-07,2024-07-07,2024-07-07,PayLater Test Merchant,,,,,,last_to_last_month,5,0,0,,last_to_last_month,July
+24,2024-07-06,2024-07-06,2024-07-06,2024-07-06,PayLater Test Merchant,,,,,,last_to_last_month,3,0,0,,last_to_last_month,July
+25,2024-07-03,2024-07-03,2024-07-03,2024-07-03,PayLater Test Merchant,,,,,,last_to_last_month,4,0,0,,last_to_last_month,July
+26,2024-07-02,2024-07-02,2024-07-02,2024-07-02,PayLater Test Merchant,,,,,,last_to_last_month,1,0,0,,last_to_last_month,July
+27,2024-07-01,2024-07-01,2024-07-01,2024-07-01,PayLater Test Merchant,,,,,,last_to_last_month,3,0,0,,last_to_last_month,July
+28,2024-06-30,2024-06-30,2024-06-30,2024-06-30,PayLater Test Merchant,,,,,,,2,0,0,,,
+29,2024-06-29,2024-06-29,2024-06-29,2024-06-29,PayLater Test Merchant,,,,,,,1,0,0,,,
+30,2024-06-20,2024-06-20,2024-06-20,2024-06-20,PayLater Test Merchant,,,,,,,2,0,0,,,
+31,2024-06-19,2024-06-19,2024-06-19,2024-06-19,PayLater Test Merchant,,,,,,,4,0,0,,,
+32,2024-06-16,2024-06-16,2024-06-16,2024-06-16,PayLater Test Merchant,,,,,,,2,0,0,,,
+33,2024-06-14,2024-06-14,2024-06-14,2024-06-14,PayLater Test Merchant,,,,,,,3,0,0,,,
+34,2024-06-11,2024-06-11,2024-06-11,2024-06-11,PayLater Test Merchant,,,,,,,1,0,0,,,
+35,2024-06-09,2024-06-09,2024-06-09,2024-06-09,PayLater Test Merchant,,,,,,,2,0,0,,,
+36,2024-06-08,2024-06-08,2024-06-08,2024-06-08,PayLater Test Merchant,,,,,,,3,0,0,,,
+37,2024-06-07,2024-06-07,2024-06-07,2024-06-07,PayLater Test Merchant,,,,,,,5,0,0,,,
+38,2024-06-06,2024-06-06,2024-06-06,2024-06-06,PayLater Test Merchant,,,,,,,3,0,0,,,
+39,2024-06-03,2024-06-03,2024-06-03,2024-06-03,PayLater Test Merchant,,,,,,,4,0,0,,,
+40,2024-06-02,2024-06-02,2024-06-02,2024-06-02,PayLater Test Merchant,,,,,,,1,0,0,,,
+41,2024-06-01,2024-06-01,2024-06-01,2024-06-01,PayLater Test Merchant,,,,,,,3,0,0,,,
+42,2024-05-30,2024-05-30,2024-05-30,2024-05-30,PayLater Test Merchant,,,,,,,2,0,0,,,
+43,2024-05-29,2024-05-29,2024-05-29,2024-05-29,PayLater Test Merchant,,,,,,,1,0,0,,,
+44,2024-05-01,2024-05-01,2024-05-01,2024-05-01,PayLater Test Merchant,,,,,,,3,0,0,,,
+45,2024-04-29,2024-04-29,2024-04-29,2024-04-29,PayLater Test Merchant,,,,,,,1,0,0,,,
+0,2024-08-18,2024-08-18,2024-08-18,2024-08-18,Approved Market,,,,,,,1,0,0,,last_month,August
+0,2024-09-15,2024-09-15,2024-09-15,2024-09-15,Store 974,,,,,,current_month,1,0,0,today,current_month,September
+1,2024-09-11,2024-09-11,2024-09-11,2024-09-11,Store 974,,,,,,current_month,1,0,0,,current_month,September
+2,2024-09-03,2024-09-03,2024-09-03,2024-09-03,Store 974,,,,,,current_month,1,0,0,,current_month,September
+3,2024-09-01,2024-09-01,2024-09-01,2024-09-01,Store 974,,,,,,current_month,1,0,0,,current_month,September
+4,2024-08-24,2024-08-24,2024-08-24,2024-08-24,Store 974,,,,,,,1,0,0,,last_month,August
+5,2024-08-21,2024-08-21,2024-08-21,2024-08-21,Store 974,,,,,,,1,0,0,,last_month,August
+0,2024-09-15,2024-09-15,2024-09-15,2024-09-15,U Events,,,,,,current_month,1,0,0,today,current_month,September

@@ -1,0 +1,328 @@
+,approval,attempted_at,attempted_at_day,consumer_id,merchant_id,mtd,reason,shared,which_day,which_month,merchant_name,in_store
+0,approved,2024-07-31 00:48:09.757435+00:00,2024-07-31,d571e2af-3170-4350-b899-b18ef1655621,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+1,approved,2024-07-31 08:23:03.305752+00:00,2024-07-31,63b206d7-59bb-4458-bec0-9d5ce4dc0183,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+2,approved,2024-07-31 12:13:56.660348+00:00,2024-07-31,1ea00478-05f4-440b-97a6-61aa244b157c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+3,approved,2024-07-31 12:31:29.119764+00:00,2024-07-31,c302dc56-3f7f-413a-a930-213779fc6625,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+4,approved,2024-07-31 13:28:40.150720+00:00,2024-07-31,60f82ff8-3cdf-44d4-9115-951e79078bba,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+5,approved,2024-07-31 15:57:51.520016+00:00,2024-07-31,0964d12a-4bf0-4fe8-a225-e6bdc3f9d2da,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+6,approved,2024-07-31 16:32:39.791743+00:00,2024-07-31,b844e361-b187-422e-9a3b-c598ad7f1715,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+7,approved,2024-07-31 17:23:59.815156+00:00,2024-07-31,2729dfbf-714b-44ac-bb99-eec0c90a7213,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+8,approved,2024-07-31 18:01:45.898752+00:00,2024-07-31,80d21224-83a2-45ff-a91c-3a792e4a63cc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+9,approved,2024-07-31 18:09:02.586074+00:00,2024-07-31,80e1751c-9436-4175-8c06-0b7a3b6d7efe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+10,approved,2024-07-31 18:22:18.172923+00:00,2024-07-31,34f1b4f9-7242-43b1-9abc-b74235964319,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+11,approved,2024-07-30 13:27:08.455797+00:00,2024-07-30,d571e2af-3170-4350-b899-b18ef1655621,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+12,approved,2024-07-30 14:01:58.093558+00:00,2024-07-30,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+13,approved,2024-07-30 14:36:49.024572+00:00,2024-07-30,ef646e60-2df2-4917-aaf9-ba96cd51ff81,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+14,approved,2024-07-30 14:51:29.139786+00:00,2024-07-30,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+15,approved,2024-07-29 14:06:53.072752+00:00,2024-07-29,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+16,approved,2024-07-24 14:18:37.018564+00:00,2024-07-24,2905bfa0-41ee-498f-b076-cca3738285f7,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,,,0,,last_to_last_month,Store 974,False
+17,approved,2024-07-24 17:44:35.527170+00:00,2024-07-24,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+18,approved,2024-07-23 07:09:21.887749+00:00,2024-07-23,5b792df7-fefb-4c42-8355-ef998057ba67,21680446-d05d-4e52-93f5-fcee87f4cb5c,,,0,,last_to_last_month,,
+19,approved,2024-07-23 15:03:23.748703+00:00,2024-07-23,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+20,approved,2024-07-23 18:05:40.139974+00:00,2024-07-23,ae709f6c-efe1-4ddb-88c9-312b7d68a12f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+21,approved,2024-07-22 05:20:07.107343+00:00,2024-07-22,67d16682-b88a-4a80-b189-10fe666fedf5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+22,approved,2024-07-22 08:22:57.730870+00:00,2024-07-22,ae709f6c-efe1-4ddb-88c9-312b7d68a12f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+23,approved,2024-07-22 09:55:10.277815+00:00,2024-07-22,598751b6-fc90-45b3-b423-f063a6f4effe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+24,approved,2024-07-22 10:04:06.897405+00:00,2024-07-22,d6c8e7ac-105b-4472-a7e7-bfbff84543fe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+25,approved,2024-07-22 20:13:56.116601+00:00,2024-07-22,2b87e0c1-b994-4001-921e-26d5dff452ec,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+26,approved,2024-07-21 19:04:50.340057+00:00,2024-07-21,234ee5ee-51c8-4aec-9e38-ad6eb20a5f0d,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,,,0,,last_to_last_month,Store 974,False
+27,approved,2024-07-18 13:11:38.259910+00:00,2024-07-18,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+28,approved,2024-07-18 13:16:01.939324+00:00,2024-07-18,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+29,approved,2024-07-18 15:39:25.244076+00:00,2024-07-18,234ee5ee-51c8-4aec-9e38-ad6eb20a5f0d,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,,,0,,last_to_last_month,Approved Market,False
+30,approved,2024-07-18 16:59:19.142298+00:00,2024-07-18,598751b6-fc90-45b3-b423-f063a6f4effe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+31,not approved,2024-07-17 09:46:56.442501+00:00,2024-07-17,67d16682-b88a-4a80-b189-10fe666fedf5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,shared_pcard_uu,1,,last_to_last_month,,
+32,approved,2024-07-17 09:59:23.238260+00:00,2024-07-17,67d16682-b88a-4a80-b189-10fe666fedf5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_to_last_month,,
+33,approved,2024-07-15 09:20:40.332916+00:00,2024-07-15,d6c8e7ac-105b-4472-a7e7-bfbff84543fe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_to_last_month,,0,last_to_last_month_today,last_to_last_month,,
+34,not approved,2024-08-31 07:30:16.746179+00:00,2024-08-31,9a1a9823-14f4-46da-938d-6b54abecb5f4,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,cl,0,,last_month,,
+35,approved,2024-08-31 13:04:14.955189+00:00,2024-08-31,3285c37f-bc0e-4ff8-a8f9-9d0fb4ef1d8e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+36,not approved,2024-08-31 09:05:38.396012+00:00,2024-08-31,5a8dbfa5-c40d-4476-84f2-29fbda75b8af,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,cl,0,,last_month,Viva Store,False
+37,approved,2024-08-31 09:07:47.762550+00:00,2024-08-31,5a8dbfa5-c40d-4476-84f2-29fbda75b8af,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+38,not approved,2024-08-31 10:28:36.269223+00:00,2024-08-31,c380b9b4-d003-45ed-a882-9ece628f53f4,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,cl,0,,last_month,,
+39,approved,2024-08-31 13:33:21.311842+00:00,2024-08-31,c0134840-219f-43a5-90c1-313119d64b90,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+40,approved,2024-08-30 07:20:58.562281+00:00,2024-08-30,3047b50e-4c1b-4f00-ab58-558fed4eca46,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+41,approved,2024-08-30 11:28:51.136389+00:00,2024-08-30,c2e48e72-70b4-4194-80eb-bb7fcb2c1fb3,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+42,approved,2024-08-30 14:44:54.224615+00:00,2024-08-30,b761721f-ac66-4f54-92bc-6b8ea2b86cb9,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,,,0,,last_month,Store 974,False
+43,approved,2024-08-30 15:16:28.490432+00:00,2024-08-30,6d748810-8eff-4d6d-9618-7d304c499887,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+44,not approved,2024-08-30 15:26:20.837976+00:00,2024-08-30,6d748810-8eff-4d6d-9618-7d304c499887,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+45,not approved,2024-08-30 19:46:18.456290+00:00,2024-08-30,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+46,approved,2024-08-29 05:32:04.938119+00:00,2024-08-29,3285c37f-bc0e-4ff8-a8f9-9d0fb4ef1d8e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+47,approved,2024-08-29 00:06:23.186673+00:00,2024-08-29,59584325-cff0-4899-a9f9-cea9bc6bc539,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+48,not approved,2024-08-29 05:28:00.330474+00:00,2024-08-29,3285c37f-bc0e-4ff8-a8f9-9d0fb4ef1d8e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+49,approved,2024-08-29 09:56:00.786167+00:00,2024-08-29,5a8dbfa5-c40d-4476-84f2-29fbda75b8af,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+50,not approved,2024-08-29 11:23:31.998163+00:00,2024-08-29,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+51,approved,2024-08-29 11:41:00.319459+00:00,2024-08-29,2c6d2370-705b-4fd0-b426-6a83f509c85d,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+52,approved,2024-08-29 14:02:14.052712+00:00,2024-08-29,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+53,approved,2024-08-29 16:19:05.840189+00:00,2024-08-29,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+54,approved,2024-08-29 18:18:12.088086+00:00,2024-08-29,81c938d3-2f83-4fe3-8260-6780efb17634,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+55,approved,2024-08-29 19:43:10.612352+00:00,2024-08-29,c2e48e72-70b4-4194-80eb-bb7fcb2c1fb3,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+56,approved,2024-08-29 21:59:57.650222+00:00,2024-08-29,8cb23a45-2a35-47cf-85d7-f732dc1386e5,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+57,approved,2024-08-28 09:59:41.857976+00:00,2024-08-28,234ee5ee-51c8-4aec-9e38-ad6eb20a5f0d,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+58,approved,2024-08-28 10:39:12.831176+00:00,2024-08-28,348efa9a-f438-4eaf-a583-d3e3330638c8,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+59,approved,2024-08-28 10:49:11.333590+00:00,2024-08-28,05733e4c-2dd3-4a4d-97e3-114f1036602c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+60,not approved,2024-08-28 14:30:50.366150+00:00,2024-08-28,9a1a9823-14f4-46da-938d-6b54abecb5f4,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,cl,0,,last_month,,
+61,approved,2024-08-28 14:51:17.905401+00:00,2024-08-28,b6078646-ecd7-4722-8507-0e4602a0e300,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+62,not approved,2024-08-28 22:55:10.975156+00:00,2024-08-28,59584325-cff0-4899-a9f9-cea9bc6bc539,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+63,approved,2024-08-27 07:10:01.520093+00:00,2024-08-27,a8a4d3a6-8dde-4f5f-bd7e-47d97ed94130,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+64,not approved,2024-08-27 17:04:21.434621+00:00,2024-08-27,22b10a1f-73fa-4d4c-a351-ab0d582e1187,a1008604-16c2-4cc4-a826-4a5a8998e72c,,pr,0,,last_month,Joy Travels,False
+65,approved,2024-08-27 13:01:44.006695+00:00,2024-08-27,e9aeba75-0a38-4e5c-98f4-150ba6b0a142,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+66,approved,2024-08-27 14:00:34.595651+00:00,2024-08-27,2b32bae4-c51a-46b7-bdc0-feecbdf08bc4,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+67,not approved,2024-08-27 16:58:35.899909+00:00,2024-08-27,22b10a1f-73fa-4d4c-a351-ab0d582e1187,a1008604-16c2-4cc4-a826-4a5a8998e72c,,cl,0,,last_month,Joy Travels,False
+68,approved,2024-08-27 17:02:33.128989+00:00,2024-08-27,22b10a1f-73fa-4d4c-a351-ab0d582e1187,a1008604-16c2-4cc4-a826-4a5a8998e72c,,,0,,last_month,Joy Travels,False
+69,approved,2024-08-26 11:20:48.062384+00:00,2024-08-26,0d56a6b4-5e27-411c-9dc6-7c6ee48896dc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+70,not approved,2024-08-26 13:26:56.481987+00:00,2024-08-26,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+71,not approved,2024-08-26 13:42:17.254849+00:00,2024-08-26,6bc81a12-2d62-4c80-b143-0f830535a58c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,cl,0,,last_month,,
+72,not approved,2024-08-26 14:40:14.924108+00:00,2024-08-26,32dd21cc-b518-4dbe-810f-7bf7d600a26b,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,cl,0,,last_month,,
+73,not approved,2024-08-26 15:41:07.035255+00:00,2024-08-26,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+74,approved,2024-08-26 15:52:25.325347+00:00,2024-08-26,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+75,approved,2024-08-25 11:24:57.421838+00:00,2024-08-25,e7dceba5-4ab2-4af5-bba6-950850eacbac,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+76,approved,2024-08-25 17:04:25.558473+00:00,2024-08-25,632c04fe-5b85-4fa8-8c3c-bf4ef6fd9af9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+77,not approved,2024-08-24 06:21:26.457075+00:00,2024-08-24,1298ed55-e2d7-4e2b-91ab-720665055782,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+78,not approved,2024-08-24 11:34:22.481533+00:00,2024-08-24,e7dceba5-4ab2-4af5-bba6-950850eacbac,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,pr,0,,last_month,,
+79,approved,2024-08-24 14:27:52.295721+00:00,2024-08-24,4e81ccfe-f09e-4d96-9840-825067ca9f7f,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,,,0,,last_month,Approved Market,False
+80,not approved,2024-08-24 14:29:45.221248+00:00,2024-08-24,4e81ccfe-f09e-4d96-9840-825067ca9f7f,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,,pr,0,,last_month,Approved Market,False
+81,approved,2024-08-24 15:43:29.303049+00:00,2024-08-24,aba22397-ce77-4296-9ff6-579080e08afc,a1008604-16c2-4cc4-a826-4a5a8998e72c,,,0,,last_month,Joy Travels,False
+82,approved,2024-08-24 17:26:20.566683+00:00,2024-08-24,3879a5ff-9e0d-4445-b602-78a8fdc7c177,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+83,approved,2024-08-24 17:38:24.594745+00:00,2024-08-24,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+84,approved,2024-08-24 17:56:21.692257+00:00,2024-08-24,48463f78-0a66-4bbb-a11b-4d528ffb4bfb,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+85,approved,2024-08-23 07:34:09.438629+00:00,2024-08-23,aee2663c-19fc-4ce6-89d9-aa68d8776e14,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+86,approved,2024-08-23 10:57:06.795353+00:00,2024-08-23,e53c9e86-f31f-43bc-9783-4b64b1004cd9,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+87,not approved,2024-08-23 10:58:38.338117+00:00,2024-08-23,e53c9e86-f31f-43bc-9783-4b64b1004cd9,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+88,approved,2024-08-23 14:07:04.859729+00:00,2024-08-23,115e5120-0de0-454d-aef9-a35ee1148146,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+89,approved,2024-08-23 14:13:40.409541+00:00,2024-08-23,7a1e826e-73d7-41d8-a4ba-cb63ba49948d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+90,approved,2024-08-22 04:19:38.557367+00:00,2024-08-22,dc4790c6-8dba-4d1d-b8cf-be9d07ac31aa,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+91,approved,2024-08-22 07:56:26.713049+00:00,2024-08-22,e6d1cc2c-8cfc-48f8-836d-a0f5557cea31,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+92,approved,2024-08-22 08:38:13.504409+00:00,2024-08-22,1ae865db-b0b6-4f33-81d6-c80d7cb7fda8,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+93,approved,2024-08-22 08:51:38.412128+00:00,2024-08-22,2f49e8ad-d862-45b0-94e2-30a2a363b5c1,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+94,approved,2024-08-22 09:31:21.073052+00:00,2024-08-22,e7dceba5-4ab2-4af5-bba6-950850eacbac,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+95,not approved,2024-08-22 09:34:51.995855+00:00,2024-08-22,e7dceba5-4ab2-4af5-bba6-950850eacbac,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,pr,0,,last_month,,
+96,approved,2024-08-22 09:56:25.556334+00:00,2024-08-22,aee2663c-19fc-4ce6-89d9-aa68d8776e14,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+97,approved,2024-08-22 09:58:10.518812+00:00,2024-08-22,469af02e-a463-415d-ba59-a724fb8b6e41,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+98,approved,2024-08-22 10:40:11.318958+00:00,2024-08-22,082ffeef-9657-48c4-9cad-a5f9976e0fd8,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+99,approved,2024-08-22 10:25:48.065838+00:00,2024-08-22,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+100,approved,2024-08-22 10:34:05.182732+00:00,2024-08-22,b817e518-0121-4734-a2c3-f37ac6acf88d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+101,approved,2024-08-22 12:58:41.098252+00:00,2024-08-22,a0cac17f-96a8-40cf-9cfc-2bd4bed53b8b,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+102,approved,2024-08-22 13:59:45.959809+00:00,2024-08-22,303dcb60-9552-4fa3-9ab0-186e02fe69e3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+103,approved,2024-08-22 17:11:54.852160+00:00,2024-08-22,2c6d2370-705b-4fd0-b426-6a83f509c85d,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,,,0,,last_month,Approved Market,False
+104,approved,2024-08-21 06:50:24.920549+00:00,2024-08-21,80d2ddac-38ea-4d96-afdd-f357721e1544,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+105,approved,2024-08-21 07:50:39.380190+00:00,2024-08-21,354ce5f8-4880-40e6-931c-e1d090de2722,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+106,approved,2024-08-21 08:06:06.292095+00:00,2024-08-21,3d258b9b-9534-4fa2-b9fa-44585613b52a,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+107,not approved,2024-08-21 08:29:20.367336+00:00,2024-08-21,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+108,not approved,2024-08-21 10:09:37.948984+00:00,2024-08-21,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+109,approved,2024-08-21 11:11:50.811864+00:00,2024-08-21,37b3d5e2-d4e1-4c47-b47d-5a00ec38d681,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+110,approved,2024-08-21 13:18:01.814341+00:00,2024-08-21,95d1dcc4-2b87-4100-a7b3-90c65d6c8a94,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+111,approved,2024-08-21 13:45:05.744420+00:00,2024-08-21,93eee4c1-0724-4206-9aa4-be66827098fe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+112,approved,2024-08-21 13:53:37.988660+00:00,2024-08-21,22218266-be73-493b-8e8e-ed584a17dd23,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,,,0,,last_month,Approved Market,False
+113,approved,2024-08-21 14:49:08.647559+00:00,2024-08-21,2449ac11-7c60-43eb-b801-2393203f28cd,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+114,approved,2024-08-21 16:43:16.490554+00:00,2024-08-21,5e8a47b3-f315-4024-be9f-8e22db5c6c0c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+115,approved,2024-08-21 17:42:49.451049+00:00,2024-08-21,73041301-4f0e-4a48-bf57-ddbebfece600,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+116,approved,2024-08-21 18:24:44.475526+00:00,2024-08-21,2511b9c7-d080-4604-94d4-6d164b17bcf8,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+117,approved,2024-08-20 05:54:47.262328+00:00,2024-08-20,f5387da0-8ab0-4060-8ffb-fbb65e05df6f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+118,not approved,2024-08-20 07:03:52.013171+00:00,2024-08-20,95fd14b0-acb2-4047-9ed2-b3d8148f4019,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,pr,0,,last_month,,
+119,approved,2024-08-20 09:38:23.182773+00:00,2024-08-20,d1d0afa1-5cfe-4ac4-a32d-241f77073bc3,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+120,approved,2024-08-20 10:43:16.847784+00:00,2024-08-20,338cd7ad-96b5-43db-84e8-c1cde0bc4588,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+121,approved,2024-08-20 11:00:49.324116+00:00,2024-08-20,fda04fca-1e47-4767-b744-cd8c394420d5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+122,not approved,2024-08-20 13:38:24.139636+00:00,2024-08-20,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+123,approved,2024-08-20 14:07:06.970685+00:00,2024-08-20,603b4568-71d9-4aff-9e97-efe816e7a941,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+124,approved,2024-08-20 14:58:56.883710+00:00,2024-08-20,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+125,approved,2024-08-20 15:17:05.362694+00:00,2024-08-20,04dcd577-d8c3-476a-88a6-9bdaacad2048,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+126,approved,2024-08-20 16:15:42.342035+00:00,2024-08-20,c39d9814-453c-4a19-9794-c228a01fed5e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+127,approved,2024-08-20 17:08:21.380352+00:00,2024-08-20,95a1785c-e06e-4462-941b-9195a3f63b2e,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+128,not approved,2024-08-20 17:24:04.656574+00:00,2024-08-20,68319604-1330-4cdd-81ed-1017118accb4,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+129,approved,2024-08-20 17:48:57.421317+00:00,2024-08-20,68319604-1330-4cdd-81ed-1017118accb4,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+130,approved,2024-08-20 18:22:08.211536+00:00,2024-08-20,6da30f01-5fbe-4fa5-b067-9487766b9301,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+131,not approved,2024-08-20 22:20:01.433039+00:00,2024-08-20,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+132,not approved,2024-08-19 01:21:32.073414+00:00,2024-08-19,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+133,approved,2024-08-19 05:24:51.260560+00:00,2024-08-19,e53c9e86-f31f-43bc-9783-4b64b1004cd9,dfe044f2-fb3a-42b4-b42f-fec46043476c,,,0,,last_month,Tech Station Trading,False
+134,approved,2024-08-19 10:48:30.134294+00:00,2024-08-19,608339a7-bfa7-41e7-977d-f3f251008b18,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+135,approved,2024-08-19 12:37:35.505282+00:00,2024-08-19,36860d45-53c9-48a7-9c5d-6e2de66dfd67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+136,approved,2024-08-19 13:47:31.460941+00:00,2024-08-19,a00d4871-03aa-420c-b8bf-7384bf72733e,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+137,not approved,2024-08-19 15:07:10.468541+00:00,2024-08-19,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+138,approved,2024-08-19 15:12:00.807491+00:00,2024-08-19,de2cdf0e-b705-4972-be91-0cdfca34f251,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+139,approved,2024-08-19 16:09:24.115168+00:00,2024-08-19,c1899779-b6c9-46ac-8dab-8662fb5c7c45,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+140,approved,2024-08-19 18:18:31.916614+00:00,2024-08-19,4a72faa1-f58f-4009-9a8c-af0ebd64fc0c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+141,approved,2024-08-18 03:02:32.673577+00:00,2024-08-18,1b9d81d0-6c98-4b3f-9888-0551fae6e3a5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+142,approved,2024-08-18 08:12:45.535959+00:00,2024-08-18,84b2b10d-6ead-4f62-91e1-d4658f96e5e8,f27c1cb9-7394-4b68-b329-b82bcb6bca29,,,0,,last_month,Viva Store,False
+143,not approved,2024-08-18 09:49:58.251383+00:00,2024-08-18,c39d9814-453c-4a19-9794-c228a01fed5e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+144,approved,2024-08-18 09:50:13.303923+00:00,2024-08-18,95fd14b0-acb2-4047-9ed2-b3d8148f4019,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+145,not approved,2024-08-18 10:00:03.650193+00:00,2024-08-18,95fd14b0-acb2-4047-9ed2-b3d8148f4019,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,pr,0,,last_month,,
+146,approved,2024-08-18 11:55:05.327683+00:00,2024-08-18,64e58942-2eff-462f-b38a-122fddae84cf,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+147,approved,2024-08-18 13:27:18.733492+00:00,2024-08-18,0e70d291-322f-48ee-b438-5be2894b32d5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+148,approved,2024-08-18 13:40:14.702246+00:00,2024-08-18,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+149,not approved,2024-08-18 13:48:09.106039+00:00,2024-08-18,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,pr,0,,last_month,People's Telecom,False
+150,not approved,2024-08-18 14:18:17.118078+00:00,2024-08-18,9940305a-3a7c-4c02-8fc1-11c5fe764bb7,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,cl,0,,last_month,People's Telecom,False
+151,approved,2024-08-18 15:26:06.945508+00:00,2024-08-18,77c4cc20-b7ab-476a-bab3-4af2c73fc4a5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+152,approved,2024-08-18 16:49:42.087250+00:00,2024-08-18,94bce0b5-544f-4124-87bb-5f267d347958,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+153,approved,2024-08-18 17:14:01.977965+00:00,2024-08-18,d1d0afa1-5cfe-4ac4-a32d-241f77073bc3,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,,,0,,last_month,People's Telecom,False
+154,approved,2024-08-18 17:57:16.178784+00:00,2024-08-18,d46bd404-5fe8-40c8-bf5c-c72ece5cd51e,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+155,approved,2024-08-18 18:49:23.156517+00:00,2024-08-18,6da30f01-5fbe-4fa5-b067-9487766b9301,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+156,approved,2024-08-16 01:39:05.974827+00:00,2024-08-16,89487e56-54fc-4b8e-b02f-5bf77c5e616b,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+157,approved,2024-08-16 08:17:47.608237+00:00,2024-08-16,8c8a8bff-141a-4340-b5d4-94ef1a7fe8cb,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+158,approved,2024-08-16 17:22:50.976496+00:00,2024-08-16,d2b85861-7056-48d7-91dd-6cac8d77d122,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+159,approved,2024-08-16 19:05:32.046585+00:00,2024-08-16,06c8f53b-d67b-4368-a4d7-0a360eb0766a,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+160,approved,2024-08-15 08:13:20.472819+00:00,2024-08-15,5b792df7-fefb-4c42-8355-ef998057ba67,3651c533-4bbe-49ca-8e38-c363df0d5bd3,last_month,,0,last_month_today,last_month,,
+161,approved,2024-08-15 09:59:29.841667+00:00,2024-08-15,1253ca42-1985-448b-a24e-6815e78d063f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+162,approved,2024-08-15 10:31:24.296630+00:00,2024-08-15,d8a40689-02a0-4e17-9f62-cf17649a2309,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+163,approved,2024-08-15 10:40:31.770629+00:00,2024-08-15,65fb19a1-9f89-4b78-a18b-1c9faf991b91,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+164,not approved,2024-08-15 11:09:15.285630+00:00,2024-08-15,608339a7-bfa7-41e7-977d-f3f251008b18,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,pr,0,last_month_today,last_month,,
+165,approved,2024-08-15 12:06:13.942259+00:00,2024-08-15,2dc9d2bb-6ce2-4ae4-bd09-1b284713170c,b85d3ac4-1e22-4d4f-b180-f6b424fcab8f,last_month,,0,last_month_today,last_month,U Events,False
+166,approved,2024-08-15 12:59:56.778837+00:00,2024-08-15,c14c7fd6-16f1-42c8-9f05-5fe8e0e20be2,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+167,approved,2024-08-15 16:43:25.363576+00:00,2024-08-15,ca10f3a2-fb0e-4583-9b07-6033bb72868d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+168,approved,2024-08-15 18:37:30.367125+00:00,2024-08-15,cb3cf0c8-8c0d-4630-a098-c90f7db17680,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,last_month,,0,last_month_today,last_month,Store 974,False
+169,approved,2024-08-15 19:02:44.649770+00:00,2024-08-15,8c8a8bff-141a-4340-b5d4-94ef1a7fe8cb,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,last_month_today,last_month,,
+170,approved,2024-08-14 06:59:26.138202+00:00,2024-08-14,fda04fca-1e47-4767-b744-cd8c394420d5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+171,approved,2024-08-14 10:24:41.278787+00:00,2024-08-14,9ae5a6d7-4820-4ee5-a0ac-5e01935a9c66,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+172,approved,2024-08-14 16:24:30.893407+00:00,2024-08-14,b0f25c2f-e8a1-48e2-84b3-a66f9d6f7d42,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+173,approved,2024-08-14 11:50:47.843251+00:00,2024-08-14,88076fe0-00fc-4b52-933f-ce7f45528c42,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+174,approved,2024-08-14 14:10:45.568783+00:00,2024-08-14,edc8dc6e-f0ef-461a-8098-534796fc4fac,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+175,approved,2024-08-14 17:13:15.652018+00:00,2024-08-14,43dbdb48-b5a6-4b99-b0aa-7dddb405dc9a,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+176,approved,2024-08-14 17:56:23.139963+00:00,2024-08-14,f4862987-6002-45cf-8028-0e4cff85168c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+177,approved,2024-08-14 20:43:39.346624+00:00,2024-08-14,0cdf217e-18a3-4787-ab27-007f74fc5f94,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+178,not approved,2024-08-17 14:38:41.347252+00:00,2024-08-17,81c938d3-2f83-4fe3-8260-6780efb17634,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,,pr,0,,last_month,Store 974,False
+179,approved,2024-08-17 12:01:53.138118+00:00,2024-08-17,693ce5a0-a2d5-4e01-97ef-020b52b6fc51,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+180,approved,2024-08-17 08:57:40.335790+00:00,2024-08-17,76cb9f52-6048-49bf-a4f3-098eab40ea63,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+181,approved,2024-08-17 10:01:47.747728+00:00,2024-08-17,0db56d43-dbe3-4115-bf0d-e940fd39ece3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+182,not approved,2024-08-17 10:03:48.233410+00:00,2024-08-17,0db56d43-dbe3-4115-bf0d-e940fd39ece3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,pr,0,,last_month,,
+183,approved,2024-08-17 10:30:21.926404+00:00,2024-08-17,18814cb2-7ed4-44fc-8fae-e971159bea7c,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+184,approved,2024-08-17 10:32:00.406416+00:00,2024-08-17,04edb358-3aeb-4744-8a52-73c693887594,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+185,approved,2024-08-17 14:20:41.143989+00:00,2024-08-17,a28f6e7c-86a6-4c31-af1c-bfc8adf6a9af,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+186,approved,2024-08-17 14:24:20.154623+00:00,2024-08-17,0ed8e616-82c3-4388-b04b-836a9924a35b,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+187,approved,2024-08-17 18:10:17.356682+00:00,2024-08-17,d56b7f18-1ad1-4f19-ad34-cf3582d63a72,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+188,approved,2024-08-17 19:02:30.829333+00:00,2024-08-17,b9edaaeb-053c-4b86-b385-5854d2dd7a28,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,,,0,,last_month,,
+189,approved,2024-08-13 10:33:47.809412+00:00,2024-08-13,a7641475-c1ca-47d4-a180-c9d685853221,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+190,approved,2024-08-13 11:04:12.606591+00:00,2024-08-13,ff496e10-5b57-4862-add7-0808245d61bc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+191,approved,2024-08-13 12:27:03.534318+00:00,2024-08-13,5b792df7-fefb-4c42-8355-ef998057ba67,3651c533-4bbe-49ca-8e38-c363df0d5bd3,last_month,,0,,last_month,,
+192,approved,2024-08-13 13:50:04.015013+00:00,2024-08-13,608339a7-bfa7-41e7-977d-f3f251008b18,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+193,approved,2024-08-13 14:20:46.358778+00:00,2024-08-13,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+194,not approved,2024-08-13 14:22:28.945757+00:00,2024-08-13,49f76042-559a-4aec-8157-f1382635adf9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,pr,0,,last_month,,
+195,approved,2024-08-13 15:03:48.699894+00:00,2024-08-13,4c9a24b9-8539-40b6-8205-fefca1527763,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+196,approved,2024-08-13 15:18:26.669804+00:00,2024-08-13,65cc4814-e8f4-43d9-a89e-08c923f102c2,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+197,approved,2024-08-13 17:31:58.539454+00:00,2024-08-13,fda04fca-1e47-4767-b744-cd8c394420d5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+198,approved,2024-08-13 18:07:43.656880+00:00,2024-08-13,f610ce55-2fe7-41e1-80e1-4dfdb7ebaddc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+199,approved,2024-08-13 19:34:41.337050+00:00,2024-08-13,ee417e28-673b-4d76-88b2-305324284a13,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+200,approved,2024-08-12 08:59:24.127119+00:00,2024-08-12,948b68d4-84a5-4767-9365-4874069fdd23,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+201,approved,2024-08-12 10:44:41.452679+00:00,2024-08-12,44c7f790-5701-462c-95b6-858d48c6bb68,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+202,approved,2024-08-12 13:33:41.360517+00:00,2024-08-12,020c2b2b-52f7-4e4b-b59a-c60ae43a3de3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+203,approved,2024-08-12 15:13:30.376253+00:00,2024-08-12,635645ec-4da4-487f-b0f1-235c14811325,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+204,approved,2024-08-12 16:11:38.426865+00:00,2024-08-12,690c8397-0e82-40e6-801f-4224c17873bc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+205,approved,2024-08-12 17:35:02.358160+00:00,2024-08-12,94886944-c3c5-4889-a681-c79f3bfd3958,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+206,not approved,2024-08-11 09:11:14.619618+00:00,2024-08-11,069a1db4-135a-426b-ae22-046d7cc64d77,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,pr,0,,last_month,,
+207,approved,2024-08-11 09:22:08.073999+00:00,2024-08-11,273b35c2-840d-4eec-bff7-2757c4bb2670,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+208,approved,2024-08-11 16:39:45.430191+00:00,2024-08-11,b31abd84-fdfe-4e3f-8a7f-8559bbcda7dc,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+209,approved,2024-08-11 16:48:27.667809+00:00,2024-08-11,635645ec-4da4-487f-b0f1-235c14811325,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+210,approved,2024-08-11 17:12:08.237048+00:00,2024-08-11,c1092bd1-304c-447e-afeb-8556b4ed27cb,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,last_month,,0,,last_month,Store 974,False
+211,approved,2024-08-11 21:13:02.555579+00:00,2024-08-11,148314b3-03cc-4860-9442-f6d800e98c98,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+212,not approved,2024-08-10 08:50:09.060712+00:00,2024-08-10,069a1db4-135a-426b-ae22-046d7cc64d77,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,pr,0,,last_month,,
+213,approved,2024-08-10 08:47:48.429549+00:00,2024-08-10,069a1db4-135a-426b-ae22-046d7cc64d77,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+214,approved,2024-08-10 10:36:59.889382+00:00,2024-08-10,1d231424-ce1b-441e-9093-fc99e4e36ff2,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+215,approved,2024-08-10 12:20:13.411731+00:00,2024-08-10,5b792df7-fefb-4c42-8355-ef998057ba67,3651c533-4bbe-49ca-8e38-c363df0d5bd3,last_month,,0,,last_month,,
+216,approved,2024-08-10 13:43:15.330327+00:00,2024-08-10,cc96e688-7002-4ab6-910d-8f3e14422088,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+217,approved,2024-08-10 14:21:08.502419+00:00,2024-08-10,b817e518-0121-4734-a2c3-f37ac6acf88d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+218,approved,2024-08-08 07:32:46.421273+00:00,2024-08-08,ea08a3a2-d0f7-43d8-b0a6-9e1dd619ee7d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+219,approved,2024-08-08 07:46:11.879366+00:00,2024-08-08,a00d4871-03aa-420c-b8bf-7384bf72733e,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+220,approved,2024-08-08 09:23:12.474254+00:00,2024-08-08,8f5f8e4e-20c6-4e1d-bf45-4b81c756ba95,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+221,approved,2024-08-08 09:49:41.900783+00:00,2024-08-08,5706a16f-29c2-4ebe-abda-7a9c50934e3f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+222,approved,2024-08-08 10:19:34.936423+00:00,2024-08-08,a1a357bc-ffb2-4862-879d-e5f695421f68,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+223,approved,2024-08-08 11:16:40.142551+00:00,2024-08-08,0e70d291-322f-48ee-b438-5be2894b32d5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+224,approved,2024-08-08 12:15:06.939686+00:00,2024-08-08,069a1db4-135a-426b-ae22-046d7cc64d77,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+225,approved,2024-08-08 12:57:24.382437+00:00,2024-08-08,619ddacc-42a2-4891-8835-6bf3caa92645,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+226,approved,2024-08-08 17:53:19.467770+00:00,2024-08-08,d11eb170-c331-45b6-a12d-4f75bd7c4b42,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+227,approved,2024-08-07 07:13:56.509703+00:00,2024-08-07,ea08a3a2-d0f7-43d8-b0a6-9e1dd619ee7d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+228,approved,2024-08-07 09:52:07.420591+00:00,2024-08-07,e9ef6100-e6e9-47d4-85c4-57bd2bb1dbd3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+229,approved,2024-08-07 13:07:10.121300+00:00,2024-08-07,a00d4871-03aa-420c-b8bf-7384bf72733e,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+230,approved,2024-08-07 14:55:30.755992+00:00,2024-08-07,ef07097f-d662-4183-9240-091556250e52,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+231,approved,2024-08-07 17:31:12.297663+00:00,2024-08-07,6c2c03ab-fd23-4a20-b5ef-15cfbe50e628,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+232,approved,2024-08-07 18:53:49.947872+00:00,2024-08-07,aab15910-85ea-46bb-8542-d1b0b0edd66d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+233,approved,2024-08-06 09:24:10.082536+00:00,2024-08-06,ea08a3a2-d0f7-43d8-b0a6-9e1dd619ee7d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+234,approved,2024-08-06 09:28:43.977241+00:00,2024-08-06,438994b0-b6c6-4c0a-a5bf-0da8f74e3884,e9d41268-9b8b-454a-972a-0648ceea313c,last_month,,0,,last_month,PayLater Test Merchant,False
+235,approved,2024-08-06 12:16:36.783416+00:00,2024-08-06,7221672f-34bf-4b22-9da8-3eb13a97071f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+236,approved,2024-08-06 13:47:37.940198+00:00,2024-08-06,0db56d43-dbe3-4115-bf0d-e940fd39ece3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+237,approved,2024-08-05 06:01:34.220109+00:00,2024-08-05,f3e80d1e-43dd-4798-aa35-3d26a4d47989,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+238,approved,2024-08-05 06:31:25.656213+00:00,2024-08-05,75362e50-8ed0-40ac-b4f4-1c161dcb62fe,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+239,approved,2024-08-05 09:42:56.690420+00:00,2024-08-05,09b60f25-ce0f-4170-8385-476ea7617ba1,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+240,approved,2024-08-05 10:58:12.711709+00:00,2024-08-05,cf6a3e28-679d-41fd-b974-aef34899d65f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+241,approved,2024-08-05 11:00:26.789460+00:00,2024-08-05,c62f567c-5438-45d4-b126-80a8abc28a9f,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+242,approved,2024-08-05 12:08:53.013484+00:00,2024-08-05,c14c7fd6-16f1-42c8-9f05-5fe8e0e20be2,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+243,approved,2024-08-05 12:19:16.073645+00:00,2024-08-05,a647a6c5-a311-4658-adcc-048b77c6e2a5,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+244,approved,2024-08-05 13:26:38.051688+00:00,2024-08-05,73d53157-bb17-4736-91c6-4a980ee53360,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+245,approved,2024-08-05 14:04:08.093263+00:00,2024-08-05,0282dad0-372e-4d27-9696-236866bde0e9,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+246,approved,2024-08-05 14:56:10.931713+00:00,2024-08-05,113eb34f-6f20-4b84-a0d0-061f7341e79a,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+247,approved,2024-08-05 18:45:16.349635+00:00,2024-08-05,fae0068d-9414-4186-8d4c-d9c3bff1f7d3,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+248,approved,2024-08-03 08:37:58.508154+00:00,2024-08-03,52ae0b53-4a31-4833-b022-61c3e36b8986,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,last_month,,0,,last_month,Store 974,False
+249,approved,2024-08-03 12:07:05.428376+00:00,2024-08-03,e68791a8-f64b-448c-8ac4-ba8f5c6eb8d8,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+250,approved,2024-08-03 17:39:19.752141+00:00,2024-08-03,e37b96a2-e9b5-43ad-a61e-bd63ad80beff,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+251,approved,2024-08-02 20:37:39.994416+00:00,2024-08-02,52ae0b53-4a31-4833-b022-61c3e36b8986,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,last_month,,0,,last_month,Store 974,False
+252,approved,2024-08-02 22:00:28.258197+00:00,2024-08-02,98ee0ad8-a294-41a2-ac78-20c29decc868,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,last_month,,0,,last_month,,
+253,approved,2024-08-01 13:30:37.340650+00:00,2024-08-01,4fd843d3-b8fa-4763-a5b3-807df67900b0,e9d41268-9b8b-454a-972a-0648ceea313c,last_month,,0,,last_month,PayLater Test Merchant,False
+254,approved,2024-08-01 18:55:55.598325+00:00,2024-08-01,6cea7f8f-77a8-4f06-be73-e5660fccd904,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,last_month,,0,,last_month,Store 974,False
+255,approved,2024-09-15 06:43:55.902295+00:00,2024-09-15,4b1a50ea-bc9d-4e2a-92c8-271c97c59111,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,today,current_month,People's Telecom,False
+256,approved,2024-09-15 06:58:04.270909+00:00,2024-09-15,2bfd799a-461f-4f05-b964-f2b759698d7e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,today,current_month,People's Telecom,False
+257,not approved,2024-09-15 12:54:36.279335+00:00,2024-09-15,7a1e826e-73d7-41d8-a4ba-cb63ba49948d,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,today,current_month,,
+258,approved,2024-09-15 14:19:25.059559+00:00,2024-09-15,b30b5155-b968-424e-8a50-9c7a1eaaf1f4,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,current_month,,0,today,current_month,Store 974,False
+259,not approved,2024-09-15 15:17:22.959153+00:00,2024-09-15,95e8390d-73d3-4466-9252-6d9b078461a6,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,today,current_month,,
+260,approved,2024-09-15 15:39:15.700234+00:00,2024-09-15,af785f14-918a-415d-8dbf-5b4c234e7973,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,today,current_month,People's Telecom,False
+261,approved,2024-09-13 06:08:39.990187+00:00,2024-09-13,e3fec868-eed1-4316-967b-2ce1fb37670c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+262,approved,2024-09-13 09:13:32.685423+00:00,2024-09-13,9f81b5c0-a27b-470b-988e-e397d75667a0,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+263,approved,2024-09-13 09:46:06.543019+00:00,2024-09-13,253b3c93-25b9-42cd-a700-47e6ecd37a7e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+264,approved,2024-09-13 17:38:48.391136+00:00,2024-09-13,267afe0d-cc69-4b8e-b635-b7a463971313,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,current_month,,0,,current_month,Store 974,False
+265,approved,2024-09-12 11:28:39.947357+00:00,2024-09-12,220ba1f7-effa-4311-9e10-4ecc06e268d4,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+266,approved,2024-09-12 15:56:15.917152+00:00,2024-09-12,11de8104-7a55-4933-b7b6-e91b05fe97a6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+267,approved,2024-09-12 12:33:21.240381+00:00,2024-09-12,5b792df7-fefb-4c42-8355-ef998057ba67,21680446-d05d-4e52-93f5-fcee87f4cb5c,current_month,,0,,current_month,,
+268,not approved,2024-09-12 13:20:05.917421+00:00,2024-09-12,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+269,approved,2024-09-12 14:44:32.757114+00:00,2024-09-12,42a22e7d-775d-4de6-a9b1-6c632eb1e6b0,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+270,approved,2024-09-12 15:11:46.707202+00:00,2024-09-12,7e4f6abe-8e5b-42a4-aac1-3325edb30caa,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+271,approved,2024-09-12 16:42:26.376997+00:00,2024-09-12,11612e9a-ab19-4ac0-b3b4-5a87dcbe677e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+272,approved,2024-09-12 17:29:33.789893+00:00,2024-09-12,147d2ddf-e0bb-4bba-bbed-9728d151c804,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+273,approved,2024-09-12 17:56:17.350406+00:00,2024-09-12,9e2a2075-5e40-40b6-b866-a7a6a1ce4d04,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+274,approved,2024-09-12 17:56:37.974768+00:00,2024-09-12,7acaafa3-cc8b-4286-8751-6a5061c8b2a6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+275,approved,2024-09-12 18:19:10.672571+00:00,2024-09-12,4e81ccfe-f09e-4d96-9840-825067ca9f7f,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+276,not approved,2024-09-12 18:25:42.359181+00:00,2024-09-12,75350a4c-5ac4-475e-9046-2577606660c6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,pr,0,,current_month,People's Telecom,False
+277,approved,2024-09-12 18:39:43.752455+00:00,2024-09-12,f76961cf-9666-44d6-b9de-1c87c4e0f7e1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+278,not approved,2024-09-11 09:10:45.645793+00:00,2024-09-11,619ddacc-42a2-4891-8835-6bf3caa92645,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,pr,0,,current_month,,
+279,approved,2024-09-11 13:10:29.649890+00:00,2024-09-11,348efa9a-f438-4eaf-a583-d3e3330638c8,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+280,approved,2024-09-14 17:43:55.431580+00:00,2024-09-14,49876179-eeb8-4ad0-b3ac-d6c635f15d38,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+281,approved,2024-09-14 08:23:06.857004+00:00,2024-09-14,220ba1f7-effa-4311-9e10-4ecc06e268d4,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+282,not approved,2024-09-14 09:04:07.954966+00:00,2024-09-14,59584325-cff0-4899-a9f9-cea9bc6bc539,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+283,not approved,2024-09-10 00:22:35.875150+00:00,2024-09-10,5124ea00-b91f-4d43-8c65-0c76728e8f8d,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+284,approved,2024-09-10 18:37:54.987398+00:00,2024-09-10,59e87bc7-7d81-4e29-a656-ef84db5f3e3e,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+285,approved,2024-09-10 19:05:40.252383+00:00,2024-09-10,5124ea00-b91f-4d43-8c65-0c76728e8f8d,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+286,approved,2024-09-09 09:38:59.142865+00:00,2024-09-09,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+287,not approved,2024-09-09 11:02:50.048527+00:00,2024-09-09,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+288,approved,2024-09-09 13:20:55.564845+00:00,2024-09-09,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+289,not approved,2024-09-07 08:08:00.533875+00:00,2024-09-07,b24cf66d-3712-4da2-a868-a009e455763c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+290,not approved,2024-09-07 10:19:16.926619+00:00,2024-09-07,15498bf7-faef-43b5-826a-16d17f8fbead,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,,current_month,,
+291,not approved,2024-09-07 11:08:41.607502+00:00,2024-09-07,9940305a-3a7c-4c02-8fc1-11c5fe764bb7,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+292,not approved,2024-09-07 12:09:37.392283+00:00,2024-09-07,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+293,not approved,2024-09-07 15:16:43.406165+00:00,2024-09-07,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+294,approved,2024-09-07 16:53:07.998358+00:00,2024-09-07,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+295,approved,2024-09-08 13:43:34.186091+00:00,2024-09-08,5b792df7-fefb-4c42-8355-ef998057ba67,21680446-d05d-4e52-93f5-fcee87f4cb5c,current_month,,0,,current_month,,
+296,approved,2024-09-08 09:07:56.649137+00:00,2024-09-08,bc90dfed-a956-450e-81e9-01835477ab34,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+297,not approved,2024-09-08 11:26:45.603462+00:00,2024-09-08,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,,current_month,,
+298,approved,2024-09-08 11:55:14.577502+00:00,2024-09-08,1ba46b72-b591-4d6b-b658-1c1a9cb18b5b,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+299,approved,2024-09-08 17:43:11.156995+00:00,2024-09-08,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+300,not approved,2024-09-06 10:16:30.214805+00:00,2024-09-06,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+301,not approved,2024-09-06 19:28:06.732116+00:00,2024-09-06,b24cf66d-3712-4da2-a868-a009e455763c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+302,not approved,2024-09-05 05:02:57.408650+00:00,2024-09-05,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+303,approved,2024-09-05 14:24:12.225345+00:00,2024-09-05,cede038b-1d6d-4fa5-8b7c-87c37b9ba6a3,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+304,not approved,2024-09-04 05:00:47.302986+00:00,2024-09-04,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+305,not approved,2024-09-04 07:11:25.165246+00:00,2024-09-04,5b792df7-fefb-4c42-8355-ef998057ba67,21680446-d05d-4e52-93f5-fcee87f4cb5c,current_month,cl,0,,current_month,,
+306,approved,2024-09-04 07:11:37.937373+00:00,2024-09-04,5b792df7-fefb-4c42-8355-ef998057ba67,21680446-d05d-4e52-93f5-fcee87f4cb5c,current_month,,0,,current_month,,
+307,approved,2024-09-04 09:46:35.135537+00:00,2024-09-04,7080927a-b006-4f5f-8524-2cd081c71099,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+308,not approved,2024-09-03 00:17:29.494166+00:00,2024-09-03,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+309,approved,2024-09-03 01:42:17.368818+00:00,2024-09-03,941add44-950f-4ad3-8488-efaba38c5ff6,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+310,not approved,2024-09-03 11:04:56.852680+00:00,2024-09-03,80d2ddac-38ea-4d96-afdd-f357721e1544,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,,current_month,,
+311,not approved,2024-09-03 11:36:22.957116+00:00,2024-09-03,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+312,not approved,2024-09-03 12:12:41.918402+00:00,2024-09-03,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,pr,0,,current_month,People's Telecom,False
+313,approved,2024-09-03 12:54:13.495695+00:00,2024-09-03,49876179-eeb8-4ad0-b3ac-d6c635f15d38,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+314,not approved,2024-09-02 08:11:55.086731+00:00,2024-09-02,f329a34a-e8dc-4fbc-901c-530242c83822,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,,current_month,,
+315,not approved,2024-09-02 09:47:54.123309+00:00,2024-09-02,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,cl,0,,current_month,,
+316,approved,2024-09-02 09:50:59.886291+00:00,2024-09-02,5b792df7-fefb-4c42-8355-ef998057ba67,0521c6ab-da85-4d1f-b880-4cac9f5de5f3,current_month,,0,,current_month,,
+317,not approved,2024-09-02 12:25:45.732813+00:00,2024-09-02,7080927a-b006-4f5f-8524-2cd081c71099,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+318,not approved,2024-09-02 14:41:56.852221+00:00,2024-09-02,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,pr,0,,current_month,People's Telecom,False
+319,not approved,2024-09-01 07:40:57.507377+00:00,2024-09-01,4fcf3658-06dd-498c-8ee4-584546cd55f1,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+320,approved,2024-09-01 11:41:07.402915+00:00,2024-09-01,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+321,not approved,2024-09-01 11:41:28.834784+00:00,2024-09-01,96e2eb8a-0f6c-4353-a8aa-1f1c36dc6e3c,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,pr,0,,current_month,People's Telecom,False
+322,not approved,2024-09-01 15:19:32.513689+00:00,2024-09-01,7080927a-b006-4f5f-8524-2cd081c71099,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+323,not approved,2024-09-01 17:40:01.656004+00:00,2024-09-01,62f3d5c0-466e-4729-b44f-2200dd609530,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+324,approved,2024-09-01 17:43:31.000560+00:00,2024-09-01,62f3d5c0-466e-4729-b44f-2200dd609530,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,,0,,current_month,People's Telecom,False
+325,not approved,2024-09-01 18:27:15.938064+00:00,2024-09-01,70d95923-0de5-4b98-8634-ba18aa8a9cbe,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False
+326,not approved,2024-09-01 20:59:15.534202+00:00,2024-09-01,12d0bc39-54d1-4066-a569-4bc3e9402ce0,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,current_month,cl,0,,current_month,People's Telecom,False

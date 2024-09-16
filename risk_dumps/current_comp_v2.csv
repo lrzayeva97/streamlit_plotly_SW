@@ -1,0 +1,56 @@
+,contribution_to_gmv,created_at,date_dt,matured_ntl,merchant_country,merchant_id,merchant_name,merchant_rolling_change,risk_composite_score,which_day,which_month,mtd
+0,0.7897052353717554,2024-09-15,2024-09-15,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,today,current_month,current_month
+1,0.21029476462824462,2024-09-15,2024-09-15,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,today,current_month,current_month
+2,1.0,2024-09-14,2024-09-14,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+3,0.5087579617834395,2024-09-13,2024-09-13,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,current_month,current_month
+4,0.4912420382165605,2024-09-13,2024-09-13,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+5,1.0,2024-09-12,2024-09-12,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+6,1.0,2024-09-11,2024-09-11,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+7,1.0,2024-09-10,2024-09-10,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+8,1.0,2024-09-09,2024-09-09,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+9,1.0,2024-09-08,2024-09-08,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+10,1.0,2024-09-07,2024-09-07,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+11,1.0,2024-09-04,2024-09-04,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+12,1.0,2024-09-05,2024-09-05,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+13,1.0,2024-09-03,2024-09-03,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,current_month,current_month
+14,0.5278588300680839,2024-08-31,2024-08-31,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+15,0.47214116993191607,2024-08-31,2024-08-31,0.0,Qatar,f27c1cb9-7394-4b68-b329-b82bcb6bca29,Viva Store,0.0,0.0,,last_month,
+16,0.08513832296804633,2024-08-30,2024-08-30,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_month,
+17,0.3257559511044392,2024-08-30,2024-08-30,0.0,Qatar,f27c1cb9-7394-4b68-b329-b82bcb6bca29,Viva Store,0.0,0.0,,last_month,
+18,0.5891057259275144,2024-08-30,2024-08-30,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+19,0.13230565538112352,2024-08-29,2024-08-29,0.0,Qatar,f27c1cb9-7394-4b68-b329-b82bcb6bca29,Viva Store,0.0,0.0,,last_month,
+20,0.8676943446188765,2024-08-29,2024-08-29,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+21,1.0,2024-08-28,2024-08-28,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+22,1.0,2024-08-26,2024-08-26,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+23,0.4880066170388751,2024-08-27,2024-08-27,0.0,Qatar,f27c1cb9-7394-4b68-b329-b82bcb6bca29,Viva Store,0.0,0.0,,last_month,
+24,0.5119933829611248,2024-08-27,2024-08-27,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+25,1.0,2024-08-24,2024-08-24,0.0,Qatar,a1008604-16c2-4cc4-a826-4a5a8998e72c,Joy Travels,0.0,0.0,,last_month,
+26,1.0,2024-08-23,2024-08-23,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+27,0.06109196263549628,2024-08-22,2024-08-22,0.0,Qatar,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,Approved Market,0.0,0.0,,last_month,
+28,0.9389080373645037,2024-08-22,2024-08-22,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+29,1.0,2024-08-21,2024-08-21,0.0,Qatar,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,Approved Market,0.0,0.0,,last_month,
+30,1.0,2024-08-20,2024-08-20,0.0,Qatar,f9efe4bd-84f4-4ede-8f0f-77e6bd667c9f,People's Telecom,0.0,0.0,,last_month,
+31,1.0,2024-08-19,2024-08-19,0.0,Qatar,dfe044f2-fb3a-42b4-b42f-fec46043476c,Tech Station Trading,0.0,0.0,,last_month,
+32,0.5450409463148317,2024-08-15,2024-08-15,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,last_month_today,last_month,last_month
+33,0.4549590536851683,2024-08-15,2024-08-15,0.0,Qatar,b85d3ac4-1e22-4d4f-b180-f6b424fcab8f,U Events,0.0,0.0,last_month_today,last_month,last_month
+34,1.0,2024-08-11,2024-08-11,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_month,last_month
+35,1.0,2024-08-06,2024-08-06,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,last_month,last_month
+36,0.9452600149290868,2024-08-01,2024-08-01,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_month,last_month
+37,0.05473998507091316,2024-08-01,2024-08-01,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,last_month,last_month
+38,1.0,2024-08-03,2024-08-03,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_month,last_month
+39,1.0,2024-07-24,2024-07-24,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_to_last_month,
+40,1.0,2024-07-21,2024-07-21,0.0,QAT,1f6dc83c-0896-407d-ab4c-097be1ef4fb9,Store 974,0.0,0.0,,last_to_last_month,
+41,1.0,2024-07-18,2024-07-18,0.0,Qatar,61b0d8b2-82f9-4d42-b5b4-89cb6b73fb84,Approved Market,0.0,0.0,,last_to_last_month,
+42,1.0,2024-05-20,2024-05-20,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+43,1.0,2024-05-19,2024-05-19,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+44,1.0,2024-05-11,2024-05-11,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+45,1.0,2024-05-14,2024-05-14,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+46,1.0,2024-05-09,2024-05-09,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+47,1.0,2024-05-16,2024-05-16,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+48,1.0,2024-05-08,2024-05-08,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+49,1.0,2024-05-06,2024-05-06,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+50,1.0,2024-05-07,2024-05-07,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+51,1.0,2024-05-02,2024-05-02,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+52,1.0,2024-04-30,2024-04-30,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+53,1.0,2024-04-01,2024-04-01,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
+54,1.0,2024-05-03,2024-05-03,0.0,QAT,e9d41268-9b8b-454a-972a-0648ceea313c,PayLater Test Merchant,0.0,0.0,,,
