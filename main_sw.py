@@ -7,10 +7,21 @@ import io
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
-import constants as cn
+#import constants as cn
 
-credentials = service_account.Credentials.from_service_account_info(cn.service_account_info)
+import toml
+# Load credentials from secrets.toml
+config = toml.load(".streamlit/secrets.toml")
+
+# Access the service account info
+service_account_info = config['gcp_service_account']
+
+# Use the credentials to authenticate
+credentials = service_account.Credentials.from_service_account_info(service_account_info)
 service = build('drive', 'v3', credentials=credentials)
+
+# credentials = service_account.Credentials.from_service_account_info(cn.service_account_info)
+# service = build('drive', 'v3', credentials=credentials)
 
 def read_data(name, id):
     file_id = id
