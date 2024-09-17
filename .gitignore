@@ -1,4 +1,4 @@
 *risk_dumps*/
 *constants.py
-secrets.toml
+.streamlit/secrets.toml
 
